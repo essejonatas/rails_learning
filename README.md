@@ -1,6 +1,13 @@
 # RAILS LEARNING 
-## teste
-- teste1
-- tes2 
 
-`wget CODE`
+**Crate a new application:**
+`rails new my_app`
+
+**Generate a CRUD:**
+`rails g scaffold my_crud`
+
+**Generate database tables from migrations**
+`rake db:migrate`
+
+**Run Server**
+`rails s`
