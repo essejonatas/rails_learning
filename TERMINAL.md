@@ -14,3 +14,6 @@
 
 **Undo commands**
 `rails destroy scaffold|controller|model...`
+
+**Execute tests**
+`rake test`
