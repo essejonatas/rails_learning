@@ -11,3 +11,6 @@
 
 **Run Server**
 `rails s`
+
+**Undo commands**
+`rails destroy scaffold|controller|model...`
